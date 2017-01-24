@@ -1,0 +1,9 @@
+name: Alpha
+description: Alphs template for Jekyll
+#baseurl: '/Alpha-Jekyll-Them
+
+url: "http://minafisi.github.io"
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
